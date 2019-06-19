@@ -1,6 +1,6 @@
 let playlist = {
-  artist: "Avicii",
-  songTitle: "Penguins"
+  'Avicii': 'Penguin' ,
+  'Kygo': 'Firestone'
 };
 
 function updatePlaylist(playlist, artist, songTitle) {
